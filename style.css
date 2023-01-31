@@ -1,5 +1,5 @@
 #topNav {
-  background: dimgray;
+  background: black;
   box-shadow: 0px 1px 10px 10px lightgray;
   height: auto;
   text-align: center;
@@ -20,5 +20,5 @@
   transition: color 0.3s ease-in;
 }
 #topNav > ul > li > a:hover {
-  color: lime;
+  color: purple;
 }
