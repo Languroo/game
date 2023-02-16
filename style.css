@@ -22,3 +22,6 @@
 #topNav > ul > li > a:hover {
   color: purple;
 }
+p {
+  font-size: 20px;
+}
